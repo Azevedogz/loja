@@ -281,4 +281,4 @@ Para dúvidas ou sugestões, abra uma issue no GitHub.
 
 ---
 
-**⚡ Desenvolvido com ❤️ usando React, Next.js e Tailwind CSS**
+**⚡ Desenvolvido usando React, Next.js e Tailwind CSS**
